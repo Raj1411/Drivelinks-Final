@@ -19,3 +19,4 @@ google-crc32c
 google-resumable-media
 googleapis-common-protos
 protobuf
+proto-plus
