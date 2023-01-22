@@ -2,7 +2,7 @@ from Google import create_service
 import streamlit as st
 
 # read the client secret file in streamlit secret folder
-st.secrets['client_secret'] = open('client_secret.json', 'r').read()
+# st.secrets['client_secret'] = open('client_secret.json', 'r').read()
 CLIENT_SECRET_FILE = st.secrets['client_secret']
 API_NAME = 'drive'
 API_VERSION = 'v3'
