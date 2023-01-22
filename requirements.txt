@@ -12,8 +12,6 @@ google-api-python-client
 google-auth
 google-auth-httplib2
 google-auth-oauthlib
-google-cloud-bigquery
-google-cloud-bigquery-storage
 google-cloud-core
 google-crc32c
 google-resumable-media
