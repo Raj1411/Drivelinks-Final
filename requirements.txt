@@ -1,0 +1,9 @@
+﻿base58
+keyboard
+oauth2client
+oauthlib
+pandas
+PyDrive
+streamlit
+openpyxl
+requests
